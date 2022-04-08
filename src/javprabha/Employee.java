@@ -22,6 +22,7 @@ public static void main(String[] args) {
 	System.out.println(st);
 	System.out.println(c);
 	System.out.println(bl);
+	System.out.println("hai");
 	
 	
 	
